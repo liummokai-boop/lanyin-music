@@ -1,15 +1,18 @@
 {
-  "appName": "澜音",
-  "currentVersionCode": 7,
-  "currentVersionName": "1.6",
-  "latestVersionCode": 7,
-  "latestVersionName": "1.6",
-  "apkUrl": "https://raw.githubusercontent.com/liummokai-boop/lanyin-music/main/releases/lanyin-1.6.apk",
+  "appName": "听屿",
+  "currentVersionCode": 8,
+  "currentVersionName": "1.7",
+  "latestVersionCode": 8,
+  "latestVersionName": "1.7",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/liummokai-boop/lanyin-music@main/releases/tingyu-1.7.apk",
+  "apkMirrors": [
+    "https://raw.githubusercontent.com/liummokai-boop/lanyin-music/main/releases/tingyu-1.7.apk"
+  ],
   "force": false,
-  "title": "澜音已是最新版本",
+  "title": "听屿已是最新版本",
   "notes": [
-    "当前版本已切换到 GitHub 公网更新源。",
-    "后续发布新版本时更新 latestVersionCode、latestVersionName 和 apkUrl 即可触发更新。"
+    "应用名称已更换为听屿，图标改为更简单的音符样式。",
+    "更新线路改为 jsDelivr 主线 + GitHub raw 备用线，提升中国区域可用性。"
   ],
   "publishedAt": "2026-06-08"
 }
