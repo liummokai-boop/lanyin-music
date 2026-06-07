@@ -1,0 +1,15 @@
+{
+  "appName": "澜音",
+  "currentVersionCode": 6,
+  "currentVersionName": "1.5",
+  "latestVersionCode": 6,
+  "latestVersionName": "1.5",
+  "apkUrl": "https://raw.githubusercontent.com/liummokai-boop/lanyin-music/main/releases/lanyin-1.5.apk",
+  "force": false,
+  "title": "澜音已是最新版本",
+  "notes": [
+    "当前版本已接入 GitHub 公网更新源。",
+    "后续发布新版本时更新 latestVersionCode、latestVersionName 和 apkUrl 即可触发更新。"
+  ],
+  "publishedAt": "2026-06-08"
+}
